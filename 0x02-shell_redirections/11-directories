@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -mondepth 1 d | wc -l
+find . -mondepth 1 d | wc -1
